@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">Reecyclee_Viewww</string>
+    <string name="upload_product">Upload Product</string>
+    <string name="product_head_line">Product Head Line</string>
+    <string name="description">Description</string>
+    <string name="price">Price</string>
+    <string name="brand">Brand</string>
+    <string name="product_type">Product Type</string>
+    <string name="about_this_item">About this item</string>
+    <string name="origin">Origin</string>
+    <string name="upload_your_product_image">Upload your product image</string>
+    <string name="head_line_of_product">Head Line of Product</string>
+</resources>

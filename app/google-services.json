@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "160125538598",
+    "project_id": "reecyclee-vie",
+    "storage_bucket": "reecyclee-vie.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:160125538598:android:b2e4f6111bd24a9ed431e7",
+        "android_client_info": {
+          "package_name": "com.example.reecyclee_viewww"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "160125538598-4uf0q33ql4mse0tdo3ftmvjrkmjm0c5i.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCRoiSrxG_v6EYU6t1OeRB2LMry0WWCxxo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "160125538598-4uf0q33ql4mse0tdo3ftmvjrkmjm0c5i.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
